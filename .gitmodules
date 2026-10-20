@@ -1,0 +1,3 @@
+[submodule "deep-agents"]
+	path = deep-agents
+	url = https://github.com/Can-Jiang-Zh/deep-agents.git
